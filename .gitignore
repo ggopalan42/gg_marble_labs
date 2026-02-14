@@ -1,0 +1,7 @@
+.env
+curl_cmd
+worldlabs-api-examples/
+worldlabs-api-python/
+__pycache__/
+*.pyc
+node_modules/
